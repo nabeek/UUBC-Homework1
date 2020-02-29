@@ -10,4 +10,4 @@ Refactoring the Horiseon website:
 - Removed repeated css styling
 - Added favicon
 - Added script to update copyright date
-- Compressed bloated imgs and updated src links
+- Compressed bloated imgs and updated src links (reduced load time from 1.8s to 700ms)
